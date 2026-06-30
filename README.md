@@ -41,7 +41,7 @@ An interactive chess game featuring an AI opponent powered by the **Minimax Algo
 # 📸 Banner
 
 <p align="center">
-  <img src="assets/banner.png" width="100%">
+  <img src="chess-ai/chess-game/assets/banner.png" width="100%">
 </p>
 
 ---
