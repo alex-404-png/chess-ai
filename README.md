@@ -49,7 +49,7 @@ An interactive chess game featuring an AI opponent powered by the **Minimax Algo
 # 🎮 Gameplay Preview
 
 <p align="center">
-  <img src="assets/gameplay.gif" width="900">
+  <img src="chess-game/assets/gameplay.gif" width="900">
 </p>
 
 ---
@@ -108,13 +108,12 @@ Best Move Selected
 # 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshot1.png" width="48%">
-  <img src="assets/screenshot2.png" width="48%">
+  <img src="chess-game/assets/screenshot1.png" width="48%">
+  <img src="chess-game/assets/screenshot2.png" width="48%">
 </p>
 
 <p align="center">
   <img src="assets/screenshot3.png" width="48%">
-  <img src="assets/screenshot4.png" width="48%">
 </p>
 
 ---
