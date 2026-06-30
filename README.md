@@ -150,13 +150,13 @@ Chess-AI/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/alex-404-png/chess-ai.git
 ```
 
 Go into the project folder
 
 ```bash
-cd YOUR_REPO
+cd chess-ai
 ```
 
 Install dependencies
