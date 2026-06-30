@@ -15,22 +15,22 @@ An interactive chess game featuring an AI opponent powered by the **Minimax Algo
     <img src="https://img.shields.io/badge/Repository-View-blue?style=for-the-badge&logo=github">
   </a>
 
-  <a href="https://YOUR_DEMO_URL](https://alex-404-png.itch.io/chess-ai">
+  <a href="https://alex-404-png.itch.io/chess-ai">
     <img src="https://img.shields.io/badge/Live_Demo-Play-success?style=for-the-badge&logo=googlechrome">
   </a>
 </p>
 
 <p>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/alex-404-png/chess-ai?style=for-the-badge">
 
-<img src="https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=for-the-badge">
+<img src="https://img.shields.io/github/forks/alex-404-png/chess-ai?style=for-the-badge">
 
-<img src="https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO?style=for-the-badge">
+<img src="https://img.shields.io/github/issues/alex-404-png/chess-ai?style=for-the-badge">
 
-<img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO?style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/alex-404-png/chess-ai?style=for-the-badge">
 
-<img src="https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO?style=for-the-badge">
+<img src="https://img.shields.io/github/license/alex-404-png/chess-ai?style=for-the-badge">
 
 </p>
 
