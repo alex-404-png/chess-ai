@@ -11,7 +11,7 @@ An interactive chess game featuring an AI opponent powered by the **Minimax Algo
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
   </a>
 
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO">
+  <a href="https://github.com/alex-404-png/chess-ai">
     <img src="https://img.shields.io/badge/Repository-View-blue?style=for-the-badge&logo=github">
   </a>
 
