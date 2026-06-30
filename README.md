@@ -7,7 +7,7 @@
 An interactive chess game featuring an AI opponent powered by the **Minimax Algorithm** with **Alpha-Beta Pruning**.
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/alex-404-png">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
   </a>
 
